@@ -13,3 +13,6 @@ The purpose of this story is to create an entity Model and scaffold the CRUD pag
 ### RentalPhoto Create and Edit Pages Styling
 The purpose of this story is to style the Edit and Create CRUD pages for the Rental Photo entity model.
 ![CreateandEditPagesStyling](https://user-images.githubusercontent.com/99293073/161320500-17a9bd43-b50d-43df-8ef3-ca70b0263ba6.PNG)
+### RentalPhoto Index Page Styling
+The purpose of this story is to style the Index Page with a series of Bootstrap Cards containing pictures with icons that link to the Edit and Delete pages.
+![Story](https://user-images.githubusercontent.com/99293073/161836975-fc0d9106-6369-456f-939b-d2bc13ac525a.PNG)
