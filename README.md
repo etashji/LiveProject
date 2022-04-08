@@ -24,4 +24,4 @@ The purpose of this story is to create a new model called RentalRequest and then
 ![RentalRequest](https://user-images.githubusercontent.com/99293073/162510165-64b48360-4530-4964-aa8e-3d62f4d1b9a2.PNG)
 ### RentalRequest Index Page
 The purpose of this story is to style the Index CRUD page for the RentalRequest.
-![RentalRequest](https://user-images.githubusercontent.com/99293073/162510410-9bc46f7a-893f-43c3-b2ac-2fdc4232a2da.PNG)
+![Index](https://user-images.githubusercontent.com/99293073/162510919-3da0ad9b-8e69-4b03-a33c-62869226dd12.PNG)
