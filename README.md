@@ -19,3 +19,9 @@ The purpose of this story is to style the Index Page with a series of Bootstrap 
 ### Rental Photo Delete and Details Page Styling
 The purpose of this story is to provide styling to the Details and Delete pages of the RentalPhoto CRUD Pages.
 ![Delete](https://user-images.githubusercontent.com/99293073/162494860-7e4072e6-7b41-483d-b48f-5344d6014c96.PNG)
+### RentalRequest Scaffolding CRUD Pages
+The purpose of this story is to create a new model called RentalRequest and then scaffold the CRUD pages using Entity Framework.
+![RentalRequest](https://user-images.githubusercontent.com/99293073/162510165-64b48360-4530-4964-aa8e-3d62f4d1b9a2.PNG)
+### RentalRequest Index Page
+The purpose of this story is to style the Index CRUD page for the RentalRequest.
+![RentalRequest](https://user-images.githubusercontent.com/99293073/162510410-9bc46f7a-893f-43c3-b2ac-2fdc4232a2da.PNG)
