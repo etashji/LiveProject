@@ -1,5 +1,6 @@
 # LiveProject
-This repository will simply contain a ReadMe of all of the work I did on the Live Project.
+This repository will simply contain a ReadMe of all of the work I did on the Live Project. This project involved creating a website for a theater website.
+While working on this website, I also worked as part of a team using Agile and Scrum.
 ## Live Project Summary
 The purpose of this live project is to create a website for a local theater. It uses C#, .NET Framework, ASP.NET, MVC, HTML, CSS, and JavaScript.
 ### Sign-In Story
